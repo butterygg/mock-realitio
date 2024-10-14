@@ -1,6 +1,6 @@
 # Mock Realitio
 
-A Realitio Mock which appears like a Realitio instance on read operations, but write operations are controlled by a
+A Realitio mock which appears like a Realitio instance on read operations, but write operations are controlled by a
 trusted user group. Useful for demo purposes.
 
 This repository is using Foundry.
